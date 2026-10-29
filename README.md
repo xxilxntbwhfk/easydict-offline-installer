@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Translation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Easydict Free Installer** — Easydict is a free, open-source macOS dictionary and translation app providing quick word lookup and text translation from the menu bar. Works without internet access, no account required. Full offline installation.
+**💻 Easydict Free Installer** — Easydict is a free, open-source translation dictionary application for macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Easydict
 
-Easydict is a free, open-source macOS dictionary and translation app providing quick word lookup and text translation from the menu bar. It supports multiple translation services and dictionary sources in a clean, native macOS interface.
+Easydict is a free, open-source translation dictionary application for macOS. With a global shortcut for instant translation of selected text, support for multiple translation services including DeepL, Google Translate, and Youdao, and OCR translation for text in images, Easydict provides comprehensive translation capabilities in a clean native macOS interface.
 
 ---
 
 ## ❌ Problem: Easydict is hard to access
 
 - **macOS Only** — No Windows or Linux version
-- **API Keys Required** — Some translation services require setting up API keys
-- **Translation Quality** — Quality varies by service; requires good internet connection
-- **Development Pace** — Community-maintained; updates may lag popular translation services
+- **API Keys** — Best translation services require personal API keys
+- **Internet Required** — All translation requires internet connectivity
+- **Privacy** — Text and images sent to external translation services
 
 ---
 
@@ -121,7 +121,7 @@ Easydict is a free, open-source macOS dictionary and translation app providing q
 
 ---
 
-**Easydict Free Installer** — Easydict is a free, open-source macOS dictionary and translation app providing quick word lookup and text translation from the menu bar. Install without internet connection today!
+**Easydict Free Installer** — Easydict is a free, open-source translation dictionary application for macOS. Install without internet connection today!
 
 <div align="center">
 
